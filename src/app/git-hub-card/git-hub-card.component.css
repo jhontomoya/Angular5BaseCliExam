@@ -1,0 +1,17 @@
+.horizontal-container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .card {
+      border: 1px solid black;
+      width: 350px;
+  }
+
+  .data-container{
+      margin: 10px;
+  }
+
+  .container-space{
+      justify-content: space-between;
+  }
